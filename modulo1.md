@@ -20,6 +20,8 @@ mostrar LEDs (corazón)
 
 ![image](ejercicio1.png)
 
+- [Enlace](modulo1Ejercicio1.hex)
+
 ## Actividad 2
 A continuación, detallamos los pasos a seguir para utilizar el sensor de
 temperatura para mostrar sus valores en la pantalla al presionar los botones A y B.
@@ -30,6 +32,7 @@ mostrar número (temperatura (ºC)
 
 ![image](ejercicio2.png)
 
+- [Enlace](modulo1Ejercicio2.hex)
 ## Actividad 3
 Por último, detallamos los pasos a seguir para mostrar en pantalla un icono si
 agitamos la Micro:bit.
@@ -39,3 +42,5 @@ Sí “agitado”
 mostrar icono (corazon)
 
 ![image](ejercicio3.png)
+
+- [Enlace](modulo1Ejercicio3.hex)
