@@ -16,7 +16,7 @@ mostrar LEDs (corazón)
 
 ![image](corazon.png)
 
-## Solución
+## Completo
 
 ![image](ejercicio1.png)
 
