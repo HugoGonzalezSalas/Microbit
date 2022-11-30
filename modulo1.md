@@ -1,4 +1,5 @@
-## La placa Microbit y sus elementos
+# La placa Microbit y sus elementos
+## Actividad 1
 A continuación, detallamos los pasos a seguir para que la placa muestre una cara
 feliz al pulsar el botón A, y un corazón al pulsar el botón B.
 Para completar la actividad seguimos el esquema de bloques con el que
