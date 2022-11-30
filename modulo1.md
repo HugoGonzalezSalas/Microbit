@@ -30,3 +30,12 @@ mostrar número (temperatura (ºC))
 
 ![image](ejercicio2.png)
 
+## Actividad 3
+Por último, detallamos los pasos a seguir para mostrar en pantalla un icono si
+agitamos la Micro:bit.
+Para completar la actividad seguimos el esquema de bloques con el que
+programamos si la placa detecta que la hemos agitado:
+Sí “agitado”
+mostrar icono (corazon)
+
+![image](ejercicio3.png)
