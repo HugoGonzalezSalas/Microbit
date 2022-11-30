@@ -26,7 +26,7 @@ temperatura para mostrar sus valores en la pantalla al presionar los botones A y
 Para completar la actividad seguimos el esquema de bloques con el que
 programamos el botón A:
 Al presionarse el botón A
-mostrar número (temperatura (ºC))
+mostrar número (temperatura (ºC)
 
 ![image](ejercicio2.png)
 
