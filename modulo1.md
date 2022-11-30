@@ -19,3 +19,14 @@ mostrar LEDs (corazón)
 ## Solución
 
 ![image](ejercicio1.png)
+
+## Actividad 2
+A continuación, detallamos los pasos a seguir para utilizar el sensor de
+temperatura para mostrar sus valores en la pantalla al presionar los botones A y B.
+Para completar la actividad seguimos el esquema de bloques con el que
+programamos el botón A:
+Al presionarse el botón A
+mostrar número (temperatura (ºC))
+
+![image](ejercicio2.png)
+
