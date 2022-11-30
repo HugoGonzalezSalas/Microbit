@@ -32,7 +32,8 @@ mostrar número (temperatura (ºC)
 
 ![image](ejercicio2.png)
 
-- [Enlace](modulo1Ejercicio2.hex)
+- [Enlace](modulo1Ejercicio2 .hex)
+
 ## Actividad 3
 Por último, detallamos los pasos a seguir para mostrar en pantalla un icono si
 agitamos la Micro:bit.
