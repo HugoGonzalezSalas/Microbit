@@ -11,7 +11,7 @@ mostrar icono (rombo)
 
 ![image](ejercicio1.png)
 
-- [Enlace](modulo2Ejercicio1.hex)
+- [Enlace](modulo2ejercicio1.hex)
 
 ## Actividad 2
 A continuación, detallamos los pasos a seguir para ampliar la programación y
@@ -29,7 +29,7 @@ mostrar número “escoger al azar de 1 a 6”
 
 ![image](ejercicio2.png)
 
-- [Enlace](modulo2Ejercicio2.hex)
+- [Enlace](modulo2ejercicio2.hex)
 
 ## Actividad 3
 
