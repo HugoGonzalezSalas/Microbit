@@ -42,6 +42,7 @@ A continuación, programaremos en la placa para que al presionar el botón suene
 la melodía programando tono a tono teniendo en cuenta de su se trata de un tono
 de un pulso, de medio pulso o de dos pulsos:
 Al presionarse el botón A:
+
 reproducir tono La medio por 1 pulso
 reproducir tono Mi medio por ½ pulso
 reproducir tono Fa medio por 1½ pulso
@@ -60,19 +61,23 @@ reproducir tono Sol medio por 1 pulso
 reproducir tono La medio por 1 pulso
 reproducir tono Re medio por 1 pulso
 reproducir tono Re medio por 2 pulso
+
 Para modificar la velocidad de la melodía haremos que al agitar la placa el tiempo
 cambie a 100 bpm y que al pulsar el botón A+B el tiempo cambie a 50 bpm.
 Si “agitado”
 cambiar tempo en (bpm) 100
+
 Al presionarse el botón “A+B”
 cambiar tempo en (bpm) 50
+
 Para finalizar, programamos la segunda parte de la melodía al pulsar el botón B.
 ¡Ojo!, esta parte tiene algunas notas altas y otras con bemoles, que es la nota
 menos medio tono y es lo mismo que la nota anterior con un sostenido (excepto
 en los casos de Do a Si y de Mi a Fa) :
 Al presionarse el botón B:
+
 reproducir tono Sol medio por 1 pulso
-reproducir tono La# medio por ½ ![image](ejercicio2.png)pulso
+reproducir tono La# medio por ½ 
 reproducir tono Re alto por ½ pulso
 reproducir tono Do alto medio por ½ pulso
 reproducir tono La# medio por ½ pulso
