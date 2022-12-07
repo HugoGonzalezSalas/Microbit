@@ -33,4 +33,4 @@ En lugar de mostrar el número, este programa usa selección para mostrar puntos
 
 ![image](dados2.png)
 
-- [Enlace](alarma.hex)
+- [Enlace](dados.hex)
