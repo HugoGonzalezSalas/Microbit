@@ -5,6 +5,7 @@
 - [Módulo2: Programación básica  1](modulo2.md)
 - [Módulo3: Programación básica  2](modulo3.md)
 - [Módulo4: Ampliación](modulo4.md)
+- [Módulo5: Videos](modulo5.md)
 
 ## Referencias
 
